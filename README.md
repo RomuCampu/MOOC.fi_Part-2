@@ -5,7 +5,8 @@
         <img height=85 src="http://moocfi.github.io/img/logo.png">
     </a>
     <br>       University of Helsinki
-    <br>Object Oriented Programming with Java, part 2</p>
+    <br><h2 align="center">Object Oriented Programming with Java - part 2</h2></p>
+</p>
 </p>
 
  |             |                      |                         |
