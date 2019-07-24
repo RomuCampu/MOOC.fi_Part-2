@@ -2,7 +2,6 @@
     <a href="http://moocfi.github.io/courses/2013/programming-part-2/">
         <img height=85 src="http://moocfi.github.io/img/logo.png">
     </a>
-    <br>Solutions MOOC.fi Part 2
+    <br>       University of Helsinki
+    <br>Object Oriented Programming with Java, part 2</p>
 </p>
-
-<p>Object Oriented Programming with Java, part 2 - University of Helsinki @ mooc.fi/english</p>
