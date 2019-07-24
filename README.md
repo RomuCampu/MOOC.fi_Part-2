@@ -4,3 +4,5 @@
     </a>
     <br>Solutions MOOC.fi Part 2
 </p>
+
+<p>Object Oriented Programming with Java, part 2 - University of Helsinki @ mooc.fi/english</p>
