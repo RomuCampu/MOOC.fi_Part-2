@@ -17,5 +17,15 @@
 | 7 | 6 | [PromissoryNote](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_06.PromissoryNote) |
 | 7 | 7 | [Dictionary](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_07.Dictionary) |
 | 7 | 8 | [Airport](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_08.Airport) |
-| 7 | 9 | [CarRegistrationCentre](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_09.CarRegistrationCentre) |
-| 7 | 10 | [NationalService](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_10.NationalService) |
+| 8 | 9 | [CarRegistrationCentre](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_09.CarRegistrationCentre) |
+| 8 | 10 | [NationalService](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_10.NationalService) |
+| 8 | 11 | [BoxesAndThings](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_11.BoxesAndThings) |
+| 8 | 12 | [OnlineShop](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_12.OnlineShop) |
+| 8 | 13 | [RichFirstPoorLast](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_13.RichFirstPoorLast) |
+| 8 | 14 | [StudentsSortedByName](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_14.StudentsSortedByName) |
+| 8 | 15 | [SortedCards](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_15.SortedCards) |
+| 8 | 16 | [SkiJumping](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_16.SkiJumping) |
+| 9 | 17 | [FirstPackages](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_17.FirstPackages) |
+| 9 | 18 | [Moving](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_18.Moving) |
+| 9 | 19 | [MethodArgumentValidation](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_19.MethodArgumentValidation) |
+| 9 | 20 | [SensorsAndTemperatureMeasurement](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_20.SensorsAndTemperatureMeasurement) |
