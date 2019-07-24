@@ -1,3 +1,5 @@
+[<h3><p align="right">Certificate of completition</h3>](https://github.com/RomuCampu/MOOC.fi_Part-2/blob/master/Mooc.fi.part-2/Certificate/document.pdf)</p>
+
 <p align="center">
     <a href="http://moocfi.github.io/courses/2013/programming-part-2/">
         <img height=85 src="http://moocfi.github.io/img/logo.png">
