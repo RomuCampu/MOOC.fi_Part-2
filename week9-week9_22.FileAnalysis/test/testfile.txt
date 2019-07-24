@@ -1,3 +1,0 @@
-there are 3 lines, and characters
-because line breaks are also
-characters
