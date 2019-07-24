@@ -8,11 +8,11 @@
 
  |             |                      |                         |
  |-------------|----------------------|-------------------------|
- |   Week      |      Excersise       |       Solution          |
+ |   Week      |      Excersise       |       Solutions         |
  |        7    |         1            |  [Smileys](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_01.Smileys)                  |
- | 7 | 2 | [CharacterStringChanger](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_02.CharacterStringChanger) |
- | 7 | 3 | [Calculator](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_03.Calculator) |
- | 7 | 4 | [ThingSuitcaseAndContainer](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_04.ThingSuitcaseAndContainer) |
+| 7 | 2 | [CharacterStringChanger](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_02.CharacterStringChanger) | 
+| 7 | 3 | [Calculator](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_03.Calculator) |
+| 7 | 4 | [ThingSuitcaseAndContainer](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_04.ThingSuitcaseAndContainer) |
 | 7 | 5 | [Nicknames](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_05.Nicknames) |
 | 7 | 6 | [PromissoryNote](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_06.PromissoryNote) |
 | 7 | 7 | [Dictionary](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week7-week7_07.Dictionary) |
@@ -29,3 +29,16 @@
 | 9 | 18 | [Moving](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_18.Moving) |
 | 9 | 19 | [MethodArgumentValidation](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_19.MethodArgumentValidation) |
 | 9 | 20 | [SensorsAndTemperatureMeasurement](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_20.SensorsAndTemperatureMeasurement) |
+| 9 | 21 | [Printer](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_21.Printer) |
+| 9 | 22 | [FileAnalysis](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_22.FileAnalysis) |
+| 9 | 23 | [WordInspection](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_23.WordInspection) |
+| 9 | 24 | [MultipleEntryDictionary](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_24.MultipleEntryDictionary) |
+| 9 | 25 | [DuplicateRemover](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_25.DuplicateRemover) |
+| 9 | 26 | [PhoneSearch](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_26.PhoneSearch) |
+| 9 | 27 | [TheFinnishRingingCentre](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week10-week10_27.TheFinnishRingingCentre) |
+| 9 | 28 | [Groups](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week10-week10_28.Groups) |
+| 9 | 29 | [PersonAndTheirHeirs](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week10-week10_29.PersonAndTheirHeirs) |
+| 9 | 30 | [Container](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week10-week10_30.Container) |
+
+
+
