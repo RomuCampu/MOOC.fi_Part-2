@@ -27,11 +27,11 @@
 | 8 | 13 | [RichFirstPoorLast](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week8-week8_13.RichFirstPoorLast) |
 | 8 | 14 | [StudentsSortedByName](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week8-week8_14.StudentsSortedByName) |
 | 8 | 15 | [SortedCards](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week8-week8_15.SortedCards) |
-| 8 | 16 | [SkiJumping](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week8-week8_16.SkiJumping) |
-| 9 | 17 | [FirstPackages](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_17.FirstPackages) |
-| 9 | 18 | [Moving](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_18.Moving) |
-| 9 | 19 | [MethodArgumentValidation](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_19.MethodArgumentValidation) |
-| 9 | 20 | [SensorsAndTemperatureMeasurement](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_20.SensorsAndTemperatureMeasurement) |
+| 8 | 16 | [SkiJumping](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week8-week8_16.SkiJumping) |
+| 9 | 17 | [FirstPackages](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_17.FirstPackages) |
+| 9 | 18 | [Moving](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_18.Moving) |
+| 9 | 19 | [MethodArgumentValidation](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_19.MethodArgumentValidation) |
+| 9 | 20 | [SensorsAndTemperatureMeasurement](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_20.SensorsAndTemperatureMeasurement) |
 | 9 | 21 | [Printer](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_21.Printer) |
 | 9 | 22 | [FileAnalysis](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_22.FileAnalysis) |
 | 9 | 23 | [WordInspection](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_23.WordInspection) |
