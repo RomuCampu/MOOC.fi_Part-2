@@ -33,8 +33,8 @@
 | 9 | 19 | [MethodArgumentValidation](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_19.MethodArgumentValidation) |
 | 9 | 20 | [SensorsAndTemperatureMeasurement](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_20.SensorsAndTemperatureMeasurement) |
 | 9 | 21 | [Printer](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_21.Printer) |
-| 9 | 22 | [FileAnalysis](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_22.FileAnalysis) |
-| 9 | 23 | [WordInspection](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_23.WordInspection) |
+| 9 | 22 | [FileAnalysis](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_22.FileAnalysis) |
+| 9 | 23 | [WordInspection](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_23.WordInspection) |
 | 9 | 24 | [MultipleEntryDictionary](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_24.MultipleEntryDictionary) |
 | 9 | 25 | [DuplicateRemover](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_25.DuplicateRemover) |
 | 9 | 26 | [PhoneSearch](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_26.PhoneSearch) |
