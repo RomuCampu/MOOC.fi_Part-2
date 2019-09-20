@@ -38,7 +38,7 @@
 | 9 | 24 | [MultipleEntryDictionary](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_24.MultipleEntryDictionary) |
 | 9 | 25 | [DuplicateRemover](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_25.DuplicateRemover) |
 | 9 | 26 | [PhoneSearch](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week9-week9_26.PhoneSearch) |
-| 9 | 27 | [TheFinnishRingingCentre](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week9-week9_26.PhoneSearch) |
+| 9 | 27 | [TheFinnishRingingCentre](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week10-week10_27.TheFinnishRingingCentre) |
 | 9 | 28 | [Groups](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week10-week10_28.Groups) |
 | 9 | 29 | [PersonAndTheirHeirs](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week10-week10_29.PersonAndTheirHeirs) |
 | 9 | 30 | [Container](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week10-week10_30.Container) |
