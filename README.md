@@ -46,7 +46,7 @@
 | 10 | 32 | [DifferentBoxes]() |
 | 10 | 33 | [Dungeon]() |
 | 10 | 34 | [FileManager](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_34.FileManager) |
-| 11 | 35 | [TwoDirectionDictionary](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_35.TwoDirectionDictionary) |
+| 11 | 35 | [TwoDirectionDictionary](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_35.TwoDirectionDictionary) |
 | 11 | 36 | [Greeter](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_36.Greeter) |
 | 11 | 37 | [Survey](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_37.Survey) |
 | 11 | 38 | [NoticeBoard](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_38.NoticeBoard) |
