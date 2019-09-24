@@ -13,7 +13,7 @@
  |-------------|----------------------|-------------------------|
  |   Week      |      Excersise       |       Solutions         |
  |        7    |         1            |  [Smileys](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week7-week7_01.Smileys)                  |
-| 7 | 2 | [CharacterStringChanger]() | 
+| 7 | 2 | [CharacterStringChanger](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week7-week7_02.CharacterStringChanger) | 
 | 7 | 3 | [Calculator](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week7-week7_03.Calculator) |
 | 7 | 4 | [ThingSuitcaseAndContainer](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week7-week7_04.ThingSuitcaseAndContainer) |
 | 7 | 5 | [Nicknames](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week7-week7_05.Nicknames) |
