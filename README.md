@@ -50,7 +50,7 @@
 | 11 | 36 | [Greeter](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_36.Greeter) |
 | 11 | 37 | [Survey](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_37.Survey) |
 | 11 | 38 | [NoticeBoard](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_38.NoticeBoard) |
-| 11 | 39 | [ClickEffect](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_39.ClickEffect) |
+| 11 | 39 | [ClickEffect](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_39.ClickEffect) |
 | 11 | 40 | [Calculator](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_40.Calculator) |
 | 11 | 41 | [DrawingBoard](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_41.DrawingBoard) |
 | 11 | 42 | [MovingFigure](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_42.MovingFigure) |
