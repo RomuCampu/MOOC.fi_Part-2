@@ -53,7 +53,7 @@
 | 11 | 39 | [ClickEffect](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_39.ClickEffect) |
 | 11 | 40 | [Calculator](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_40.Calculator) |
 | 11 | 41 | [DrawingBoard](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_41.DrawingBoard) 
-| 11 | 42 | [MovingFigure](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_42.MovingFigure) |
+| 11 | 42 | [MovingFigure](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/Mooc.fi.part-2/week11-week11_42.MovingFigure) 
 | 11 | 43 | [GameOfLife](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week11-week11_43.GameOfLife) |
 | 12 | 44 | [RegularExpressions](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week12-week12_44.RegularExpressions) |
 | 12 | 45 | [EnumAndIterator](https://github.com/RomuCampu/MOOC.fi_Part-2/tree/master/week12-week12_45.EnumAndIterator) |
